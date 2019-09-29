@@ -1,0 +1,23 @@
+{
+  "name": "Doviz Cevirici",
+  "version": "1.0.0",
+  "description": "Web döviz çevirici",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "döviz",
+    "surrency",
+    "dolar"
+  ],
+  "author": "Serkan Akman",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodcuserkan/Doviz-Cevirici.git"
+  }
+}
